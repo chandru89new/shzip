@@ -6,7 +6,6 @@ const inputDir = "./src";
 const outputDir = "./output";
 const files = fs.readFileSync("req.json", "utf-8");
 const filesJSON = JSON.parse(files);
-let zipData = null;
 
 filesJSON.forEach(item => {
   item.files.forEach(file => {
