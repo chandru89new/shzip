@@ -1,0 +1,17 @@
+{
+  "name": "zip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "druchan",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "node-zip": "^1.1.1",
+    "uneeqid": "^1.0.10",
+    "zip-dir": "^1.0.2"
+  }
+}

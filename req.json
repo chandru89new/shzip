@@ -1,0 +1,14 @@
+[
+  {
+    "type": "app",
+    "files": ["Chivo-Regular-App.ttf"]
+  },
+  {
+    "type": "desktop",
+    "files": [
+      "Chivo-Black-Desk.ttf",
+      "Chivo-Italic-Desk.ttf",
+      "Chivo-Regular-Desk.ttf"
+    ]
+  }
+]
