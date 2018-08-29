@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const ipfilter = require("express-ipfilter").IpFilter;
+const ipfilter = require("./express-ipfilter").IpFilter;
 const app = express();
 const shzip = require("./zip.js");
 const path = require('path')
